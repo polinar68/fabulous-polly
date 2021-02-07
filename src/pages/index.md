@@ -60,4 +60,5 @@ sections:
       style: secondary
       arrow: true
 template: home
+page_css_class: Real World
 ---
